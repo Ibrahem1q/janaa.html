@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(235, 235, 235);
+}
+.bbb{
+    justify-content: space-between;
+    text-align: center;
+align-items: center;
+  display: flex;
+}
